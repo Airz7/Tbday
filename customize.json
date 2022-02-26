@@ -1,8 +1,8 @@
 {
   "greeting": "Hallooo",
   "name": "Theresa",
-  "greetingText": "I think off the top of my head today is a special day",
-  "wishText": ":* :* :* test123",
+  "greetingText": "I think off the top of my head today is a special day test",
+  "wishText": ":* :* :*",
   "imagePath": "img/tbday.png",
   "text1": "It's your birthdayyyyy!!!",
   "textInChatBox": "Happy birthday !! Insert cat gif...",
